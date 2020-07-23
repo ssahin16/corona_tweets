@@ -1,0 +1,4 @@
+This is a project that analyses tweets concerning the Covid-19 pandemic. This project visualizes issues such as 50 most tweeting user, devices most of the
+tweets are posted from and text length. 
+Project also includes an analysis of pieces of data such as most occuring hastags, longest words and most occuring words. 
+As the main data frame it uses "ct" and "new_ct". It is based on the file 202003031523_corona_tweets.csv.  
